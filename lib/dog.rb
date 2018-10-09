@@ -1,3 +1,3 @@
 class Dog 
-  def name=(dog)
+  def name=(dog_name)
 end 
